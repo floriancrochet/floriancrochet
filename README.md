@@ -1,6 +1,6 @@
 # Florian Crochet
 
-Master’s student in Econometrics and Statistics at Nantes University, developing strong skills in data analysis and quantitative modeling.  
+Master’s student in Econometrics and Statistics at Nantes University, developing strong skills in data analysis and quantitative modeling. 
 Drawn to the analytical challenges of finance, I aim to deepen this focus through specialized training.
 
 ---
@@ -9,6 +9,7 @@ Drawn to the analytical challenges of finance, I aim to deepen this focus throug
 
 **Master’s Degree in Econometrics and Statistics – Applied Econometrics (2024 – Present)**  
 Nantes University – IAE Nantes (France)
+- [University website](https://iae.univ-nantes.fr/nos-formations/offre-de-formation/master-econometrie-appliquee)
 
 **Bachelor’s Degree in Mathematics – Mathematics and Economics (2021 – 2024)**     
 Nantes University – Faculty of Science and Technology & IAE Nantes (France)
