@@ -10,6 +10,7 @@ Drawn to the analytical challenges of finance, I aim to deepen this focus throug
 **Master’s Degree in Econometrics and Statistics – Applied Econometrics (2024 – Present)**  
 Nantes University – IAE Nantes (France)
 - [University website](https://iae.univ-nantes.fr/nos-formations/offre-de-formation/master-econometrie-appliquee)
+- [Program website](https://sites.google.com/view/master-ecap/accueil)
 
 **Bachelor’s Degree in Mathematics – Mathematics and Economics (2021 – 2024)**     
 Nantes University – Faculty of Science and Technology & IAE Nantes (France)
