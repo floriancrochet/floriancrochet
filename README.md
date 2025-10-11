@@ -11,9 +11,15 @@ Drawn to the analytical challenges of finance, I aim to deepen this focus throug
 Nantes University – IAE Nantes (France)
 - [University website](https://iae.univ-nantes.fr/nos-formations/offre-de-formation/master-econometrie-appliquee)
 - [Program website](https://sites.google.com/view/master-ecap/accueil)
+- [Year 2 syllabus (official university document, PDF – to be added)]
+- [Year 1 syllabus (PDF)](https://drive.google.com/file/d/1bgStgOaeJP4Zrtehf70IKDYiNyYfjLqz/view?usp=drive_link)
 
 **Bachelor’s Degree in Mathematics – Mathematics and Economics (2021 – 2024)**     
 Nantes University – Faculty of Science and Technology & IAE Nantes (France)
+- [University website](https://sciences-techniques.univ-nantes.fr/formations/licences-generales/licence-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs)
+- [Year 3 syllabus (official university document, PDF)](https://drive.google.com/file/d/1_bUhUkUM4ZIHUgqnm6xxg--MgrWVrPB4/view?usp=drive_link)
+- [Year 2 syllabus (PDF)](https://drive.google.com/file/d/1uzgqthI4StC-Hmyjpp1k96aPXvP6Exwe/view?usp=drive_link)
+- [Year 1 syllabus (PDF)](https://drive.google.com/file/d/1-PYOV9tqf2HUeNi_3d8UNVkXmKSrijX2/view?usp=sharing)
 
 ---
 
