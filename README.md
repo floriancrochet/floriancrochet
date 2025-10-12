@@ -15,7 +15,7 @@ I’m currently developing my expertise toward quantitative finance.
 - **Data Management & Automation:**  
   Skilled in data cleaning, transformation, and automating analytical workflows for greater efficiency and reproducibility.
 - **Data Visualization & Communication:**  
-  Designing interactive dashboards (Python, R, Power BI), monitoring key performance indicators, and translating complex results into actionable insights for non-technical audiences.
+  Designing interactive dashboards, monitoring key performance indicators, and translating complex results into actionable insights for non-technical audiences.
 
 ### Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
