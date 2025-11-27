@@ -31,7 +31,7 @@ I’m currently developing my expertise toward quantitative finance.
 Nantes University – IAE Nantes (France)
 - [University website](https://iae.univ-nantes.fr/nos-formations/offre-de-formation/master-econometrie-appliquee)
 - [Program website](https://sites.google.com/view/master-ecap/accueil)
-- [Year 2 syllabus (to be added)]
+- [Year 2 syllabus](https://drive.google.com/file/d/19RYMrfhpNzOekRuRRSXuhHUR1ihZTcRA/view?usp=drive_link)
 - [Year 1 syllabus](https://drive.google.com/file/d/1bgStgOaeJP4Zrtehf70IKDYiNyYfjLqz/view?usp=drive_link)
 
 **Bachelor’s Degree in Mathematics – Mathematics and Economics (2021 – 2024)**     
