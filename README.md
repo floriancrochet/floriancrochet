@@ -1,6 +1,7 @@
 # Florian Crochet
 
-Master’s student in Econometrics and Statistics with a solid background in data science. Currently specializing in quantitative finance and economics.
+Master’s student in Econometrics and Statistics with a solid background in data science.  
+Currently specializing in quantitative finance and economics.
 
 ---
 
