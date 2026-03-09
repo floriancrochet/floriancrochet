@@ -1,21 +1,21 @@
 # Florian Crochet
 
-Master’s student in Econometrics and Statistics with a solid background in data science.  
-Currently specializing in quantitative finance and economics.
+Master’s student in Econometrics and Statistics, specializing in data science applied to finance.  
+Passionate about modeling, quantitative analysis, and advanced methods.
 
 ---
 
 ## 🧠 Skills
 
 ### Technical Expertise
-- **Statistical, Econometric & Financial Analysis:**  
-  Experienced in econometric modeling, quantitative forecasting (time series), policy impact assessment, and data-driven strategic decision-making.
 - **Data Science & Machine Learning:**  
-  Practical experience with supervised models (regression, decision trees) and unsupervised methods (PCA, clustering), applied to economic and financial data.
-- **Data Management & Automation:**  
-  Skilled in data cleaning, transformation, and automating analytical workflows for greater efficiency and reproducibility.
-- **Data Visualization & Communication:**  
-  Designing interactive dashboards, monitoring key performance indicators, and translating complex results into actionable insights for non-technical audiences.
+  Supervised learning (ensemble methods: XGBoost, Random Forest; Lasso/Ridge), Deep Learning, unsupervised methods (PCA, clustering), and backtesting of risk models.
+- **Market Finance & Quantitative Risk:**  
+  Volatility modeling (GJR-GARCH, DCC, HAR), risk measurement (VaR/ES), Monte Carlo simulations, and fundamentals of derivatives.
+- **Data Engineering & Structuring:**  
+  Cleaning, preparing, and ensuring the reliability of complex datasets, and developing automation scripts for analytical pipelines.
+- **Data Visualization & Reporting:**  
+  Creating interactive exploration tools (Python, R, Power BI), synthesizing performance metrics, and simplifying the communication of complex models.
 
 ### Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
